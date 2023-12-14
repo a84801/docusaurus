@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[6238],{8558:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/oficina-rodas-pneus/blog/tags/hello","allTagsPath":"/oficina-rodas-pneus/blog/tags","count":2}')}}]);
